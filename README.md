@@ -1,5 +1,6 @@
 ### Hi there 👋
-<script src="https://tryhackme.com/badge/2255727"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/TxVScoobyDoo.png" alt="TryHackMe">
+
 
 
 <!--
