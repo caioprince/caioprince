@@ -21,7 +21,7 @@
     <section>
         <h2>💻 Interesses</h2>
         <ul>
-            <li>Explorando o mundo do código e da segurança</li>
+            <li>Explorar o mundo do código e da segurança</li>
             <li><mark>Apaixonado por desafios de hacking e cibersegurança</mark></li>
         </ul>
     </section>
