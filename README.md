@@ -6,35 +6,35 @@
 </head>
 <body>
     <header>
-        <h1>👋 Olá, sou o Caio!</h1>
+        <h1>👋 Hello, I'm Caio!</h1>
     </header>
     <section>
-        <h2>🎓 Formação</h2>
-        <p><strong>Segurança da Informação:</strong> Formado e apaixonado por proteger dados.</p>
-        <p><strong>Pós-graduação:</strong> Especializando em <mark>Offensive Cyber Security - Red Team Operations</mark>.</p>
+        <h2>🎓 Education</h2>
+        <p><strong>Postgraduate Degree:</strong> Specializing in <mark>Offensive Cyber Security - Red Team Operations</mark>.</p>
+        <p><strong>Information Security:</strong> Graduated and passionate about protecting data.</p>
     </section>
     <section>
-        <h2>👾 Atividades</h2>
-        <p>Ativo no TryHackMe:</p>
+        <h2>👾 Activities</h2>
+        <p>Active on TryHackMe:</p>
         <img src="https://tryhackme-badges.s3.amazonaws.com/TxVScoobyDoo.png" alt="TryHackMe Badge">
     </section>
     <section>
-        <h2>💻 Interesses</h2>
+        <h2>💻 Interests</h2>
         <ul>
-            <li>Explorar o mundo do código e da segurança</li>
-            <li><mark>Apaixonado por desafios de hacking e cibersegurança</mark></li>
+            <li>Exploring the world of code and security</li>
+            <li><mark>Passionate about hacking challenges and cybersecurity</mark></li>
         </ul>
     </section>
     <section>
-        <h2>🌐 Comunidade</h2>
-        <p>Aprendendo, compartilhando e crescendo na comunidade de segurança cibernética.</p>
+        <h2>🌐 Community</h2>
+        <p>Learning, sharing, and growing in the cybersecurity community.</p>
     </section>
     <section>
-        <h2>🔗 Conecte-se comigo</h2>
-        <p>Visite meu perfil no <a href="https://www.linkedin.com/in/caio-paiva/" target="_blank">LinkedIn</a></p>
+        <h2>🔗 Connect with me</h2>
+        <p>Visit my profile on <a href="https://www.linkedin.com/in/caio-paiva/" target="_blank">LinkedIn</a></p>
     </section>
     <footer>
-        <p>Siga-me e acompanhe minha jornada! 😄🔒 #HackThePlanet 🌐💻</p>
+        <p>Follow me and join my journey! 😄🔒 #HackThePlanet 🌐💻</p>
     </footer>
 </body>
 </html>
