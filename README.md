@@ -1,19 +1,10 @@
-### Hi there 👋
+👋 Olá, sou o Caio!
+🎓 Formado em Segurança da Informação
+🔐 Especializando em Offensive Cyber Security - Red Team Operations
+👾 Ativo no TryHackMe:
 <img src="https://tryhackme-badges.s3.amazonaws.com/TxVScoobyDoo.png" alt="TryHackMe">
+💻 Apaixonado por desafios de hacking e cibersegurança
+🌐 Explorando o mundo do código e da segurança
+📚 Aprendendo, compartilhando e crescendo na comunidade de segurança cibernética
 
-
-
-<!--
-**caioprince/caioprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada no mundo da segurança cibernética! 😄🔒 #HackThePlanet 🌐💻
