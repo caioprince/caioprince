@@ -17,7 +17,7 @@
         <h2>👾 Activities</h2>
         <p>Active on TryHackMe:</p>
         <a href="https://tryhackme.com/p/TxVScoobyDoo" target="_blank">
-            <img src="https://tryhackme-badges.s3.amazonaws.com/TxVScoobyDoo.png" alt="TryHackMe Badge">
+            <img src="https://tryhackme-badges.s3.amazonaws.com/TxVScoobyDoo.png" alt="TryHackMe">
         </a>
     </section>
     <section>
