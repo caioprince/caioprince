@@ -33,7 +33,7 @@
     </section>
     <section>
         <h2>🔗 Connect with me</h2>
-        <p>Visit my profile on <a href="https://www.linkedin.com/in/caio-paiva/" target="_blank">LinkedIn</a></p>
+        <p>Visit my profile on <a href="https://www.linkedin.com/in/caio-paiva-cyber-security/" target="_blank">LinkedIn</a></p>
     </section>
     <footer>
         <p>Follow me and join my journey! 😄🔒 #HackThePlanet 🌐💻</p>
